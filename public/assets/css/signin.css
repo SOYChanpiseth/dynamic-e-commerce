@@ -1,9 +1,9 @@
 .container{
-    border:2px solid 	rgb(66, 186, 150);
+    border:2px solid 	black;
     border-radius: 2%;
 }
 .welcome{
-    color: rgb(0, 209, 146);
+    color: black;
 }
 .txt{
     color: lightslategray;
@@ -14,6 +14,7 @@
 }
 .btn.btn-success{
     width: 100%;
+    background-color: blue;
 }
 .signup{
     color: lightslategray;

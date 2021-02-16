@@ -1,17 +1,19 @@
 
 .container{
-    border:2px solid 	rgb(66, 186, 150);
+    border:2px solid 	black;
     border-radius: 2%;
 }
 .welcome{
-    color: rgb(0, 209, 146);
+    color: black;
 }
 .txt{
     color: lightslategray;
     font-size: small;
 }
 .btn.btn-success{
+    color:white;
     width: 100%;
+    background-color: blue;
 }
 .message{
     float: right;
